@@ -1,8 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web app basis on react router dom which is authenticated by firebase console.The frontend of this app is hosted in firebase and backend is hosted in vercel.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+frontend link:https://react-assignment-three-copy.web.app/
+backend link: https://bootcamp-assnmnt-4-server.vercel.app
